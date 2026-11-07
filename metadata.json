@@ -1,0 +1,6 @@
+{
+  "name": "Velvet & Whisk | Artisanal Cake Pops",
+  "description": "Small-batch handcrafted cake pops, bespoke dessert tables, and custom gift boxes dipped in single-origin chocolate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
