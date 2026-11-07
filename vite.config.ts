@@ -4,7 +4,8 @@ import path from 'path';
 import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
-  return {base: '/Test_V1/'
+  return {
+    base: '/Test_V1/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
